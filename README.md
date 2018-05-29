@@ -1,6 +1,6 @@
 # Framgia's Laravel Project Testing Guidelines
 
-*For Vietnamese version of this document, please refer [this file](./README_VN.md)*
+***For Vietnamese version of this document, please refer [this file](./README_VN.md)***
 
 Guideline for writing tests in a Laravel Project
 
